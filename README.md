@@ -1,5 +1,5 @@
 # Calculator-Project
-**Description:**This is a simple  and responsive calculator  built using HTML, CSS, and JavaScript.It performs basic arithmaetic operactions such as addition, subtraction, multiplication, division, and percentage.
+**Description**: This is a simple  and responsive calculator  built using HTML, CSS, and JavaScript.It performs basic arithmaetic operactions such as addition, subtraction, multiplication, division, and percentage.
 
 ## Features
 - User-friendly interface.
